@@ -1,0 +1,36 @@
+header{
+    color:rgb(255, 64, 96);
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+
+article{
+    text-align: center;
+}
+
+ul, ol{
+    list-style-position: inside;
+}
+
+h2{
+    color:purple;
+}
+
+h3{
+    color: salmon;
+}
+
+.AboutH3{
+    text-align: left;
+}
+
+footer{
+    text-align: center;
+}
