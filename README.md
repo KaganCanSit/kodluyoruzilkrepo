@@ -1,6 +1,6 @@
 # Kodluyoruz Tekrar Amacli Ilk Repo
 
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repository. İçerisinde temel bilgilerden yararalanılarak oluşturulmuş basit HTML-CSS projeleri yer alıyor.
 
 ![github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRiETUJ1MEzOhf5PuuppITeX_tldGSOCj6omvNcJDr5nfO-_kXxs3aaOvZQn2VPjl5HSM&usqp=CAU)
 
